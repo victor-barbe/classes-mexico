@@ -1,0 +1,69 @@
+Nombre: Margaret
+Apellido: Hamilton
+Nacimiento: 17081936
+Ciudad: Paoli
+Empleador: NASA
+C. Exactas: 1
+
+Nombre: Albert
+Apellido: Einstein
+Nacimiento: 14031879
+Ciudad: Princeton
+Empleador: Yale
+C. Exactas: 1
+
+Nombre: Stephen
+Apellido: Hawking
+Nacimiento: 08011942
+Ciudad: Oxford
+Empleador: La Sorbonne
+C. Exactas: 1
+
+Nombre: Max 
+Apellido: Planck
+Nacimiento: 23041858
+Ciudad: Kiel
+Empleador: Normale Sup
+C. Exactas: 1
+
+Nombre: Isaac
+Apellido: Newton
+Nacimiento: 25121642
+Ciudad: Grantham
+Empleador: NASA
+C. Exactas: 1
+
+Nombre: René
+Apellido: Descartes
+Nacimiento: 31031596
+Ciudad: La Haye-en-Touraine
+Empleador: Polytechnique
+C. Exactas: 1
+
+Nombre: Wilhelm
+Apellido: Leibniz
+Nacimiento: 14111646
+Ciudad: Leipzig
+Empleador: Centrale Lyon
+C. Exactas: 1
+
+Nombre: Jean-Jacques
+Apellido: Rousseau
+Nacimiento: 28061712
+Ciudad: Genève
+Empleador: UDLAP
+C. Exactas: 0
+
+Nombre: Karl
+Apellido: Marx
+Nacimiento: 05051818
+Ciudad: Trèves
+Empleador: Standford
+C. Exactas: 0
+
+Nombre: Henri
+Apellido: Bergson
+Nacimiento: 18101859
+Ciudad: Paris
+Empleador: Dauphine
+C. Exactas: 0

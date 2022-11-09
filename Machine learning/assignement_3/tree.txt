@@ -1,0 +1,19 @@
+In our case since we are trying to predict a class (between 1 and 10) for the score, we will be using 
+a classification tree. The classification tree will take the different X parameters, and create split to decide the final class of the data.
+The tree starts with a node that gets divided into 2,3 or more nodes, depending on the feature we are splitting on. As an example if the first
+feature we split on is 'sex', there will be two nodes for male and female. If we had split on age, we could
+get 3 nodes (under 25, between 25 and 50, above 50) or more.
+
+At each level of the tree, we will split on a different feature (as an example fist sex, then age, then height, ...)
+Once the tree is created and train with training data, to get the class of the input we just follow the tree on each split
+(if we are a male, between 25 and 50, with a certain height ...) until we reach the last level of the tree 
+that will predict the class of the input (in our example, it will be a number between 1 and 10 for the popularity)
+
+When defining the tree, we can hadd some parameters, such as the maximum depth in order to prevent creating an
+overfitting tree, the method used to chose the split of the tree ...
+
+When training the tree, we can as an example use the Greedy Decision Tree Learning. This strategy
+will choose a feature to split on, by computing which split would be the most affective. It computes the 
+classification error for splits of different features, and choses the best one. Then the algorithm
+makes an other split if their is an other feature to split on, until none are left. Then it can make
+predictions.

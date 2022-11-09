@@ -1,0 +1,11 @@
+Support vector machines are a classification method part of suppervised learning. They are a generalisation of linear classifiers, and they can be used to create 
+decisions boundaries that wouldn't be obtainable with a linear classifier (as an example if the two classes
+to seperate needed a circle shape).
+
+There are two mains ideas in SVM, the first is to find the maximum margins. The margin is the distance between the separation boundary and the nearest samples.
+We have to maximise this distance according to the statistical learning theory.
+
+A trick called kernel tricked is also used in SVM for cases where the data can't be linearly seperated. The idea is to
+transform the space into a very high dimension space to get a possible linear seperation.
+
+In the end, the decision boundaries will give the class of the sample based on its position.

@@ -1,0 +1,14 @@
+First Name Name Birthday City Company Class
+Margaret Hamilton 17081936 Paoli NASA 1
+Albert Einstein 14031879 Princeton Yale 1
+Stephen Hawking 08011942 Oxford La Sorbonne 1
+Max Planck 23041858 Kiel Normale Sup 1
+Isaac Newton 25121642 Grantham NASA 1
+René Descartes 31031596 La Haye-en-Touraine Polytechnique 1
+Wilhelm Leibniz 14111646 Leipzig Centrale Lyon 0
+Jean-Jacques Rousseau 28061712 Genève UDLAP 0
+Karl Marx 05051818 Trèves Standford 0
+Henri Bergson 18101859 Paris Dauphine 0
+
+
+

@@ -1,0 +1,62 @@
+Nombre: Margaret
+Apellido: Hamilton
+Nacimiento: 17081936
+Ciudad: Paoli
+Empleador: Nasa
+C. Exactas: 1
+
+Nombre: Elon   
+Apellido: Musk
+Nacimiento: 28061971
+Ciudad: Los Angeles
+Empleador: Tesla
+C. Exactas: 1
+
+Nombre: Bill
+Apellido: Gates
+Nacimiento: 28101955
+Ciudad: New York
+Empleador: Microsoft
+C. Exactas: 1
+
+Nombre: jeff
+Apellido: Bezos
+Nacimiento: 12011964
+Ciudad: Seattle
+Empleador: Amazon
+C. Exactas: 1
+
+Nombre: Ryan
+Apellido: Dahl
+Nacimiento: 01011981
+Ciudad: San Diego
+Empleador: Node
+C. Exactas: 1
+
+Nombre: Ryan
+Apellido: Dahl
+Nacimiento: 01011981
+Ciudad: San Diego
+Empleador: Node
+C. Exactas: 1
+
+Nombre: Donald
+Apellido: Knuth
+Nacimiento: 10011938
+Ciudad: California
+Empleador: institute of technologie
+C. Exactas: 1
+
+Nombre: Richard
+Apellido: Stallman
+Nacimiento: 160031953
+Ciudad: New York
+Empleador: Free Software Foundation
+C. Exactas: 1
+
+Nombre: Edward
+Apellido: Snowden
+Nacimiento: 21061983
+Ciudad: Moscou
+Empleador: NSA
+C. Exactas: 1
