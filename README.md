@@ -1,4 +1,4 @@
-# classes-mexico
+# Classes Mexico
 This repository will feature the different classes that were studied in Mexico
 
 ## Programmation concurente
